@@ -1,50 +1,55 @@
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/8d796acc-5022-412b-ba56-34aa432ee616" /># 💻 Sviluppatore Software
+# 💻 Junior Software Developer
+
+## 🧑‍💻 About Me
+Hi, I'm Alessandro! I am a software developer focused on writing efficient, clean, and scalable code. I enjoy solving complex logical problems, optimizing application performance, and constantly exploring new technologies to broaden my computer science skill set.
+
+* 🌐 **My Portfolio:** You can find all my projects, experiments, and source code directly right here in my GitHub repositories.
+* 💼 **Current Status:** Actively seeking job opportunities as a **Junior Developer** to join a dynamic team, grow professionally, and put my technical skills into practice.
+* 🚀 **What I Do:** Software development, logical design, database management, and workflow automation.
+
+---
+
+## 🛠️ Technical Skills
+
+### ☕ Programming Languages & Markup
+* 🟡 **JavaScript** / 🔵 **TypeScript**
+* 🔴 **C** / 🔵 **C++**
+* 🐍 **Python** / ☕ **Java**
+* 🌐 **HTML5** / 🎨 **CSS3**
+
+### 🚀 Frameworks, Backend & Cloud Services
+* 🟢 **Node.js** — Backend Runtime
+* ⚛️ **React** — Frontend Development
+* ⚡ **Supabase** — Backend-as-a-Service & Database
+* 📐 **Vercel** — Deployment & Cloud Hosting
+* 🧡 **Cloudflare** — CDN, DNS Management & Serverless Workers
+* 🔄 **REST APIs** — Interface design and API integration
+
+### 🧰 Development Tools & Infrastructure
+* 🐙 **Git & GitHub** — Version control and repository management
+* 📦 **npm / yarn** — Package and dependency management
+* 📝 **Visual Studio Code** — Primary code editor and IDE
+* 🐬 **MySQL** / 🐘 **PostgreSQL** — SQL Database management and data modeling
+* 🐳 **Docker** — Application containerization
+* 🪟 **Windows** / 🐧 **Linux** — Operating systems and Command Line Interface (CLI)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Banner di Steins;Gate fornito -->
-  <img src= https://giffiles.alphacoders.com/162/162534.gif width="100%" alt="Steins;Gate Banner"/>
+  <img src="https://vercel.app" alt="My Stats" />
 </p>
 
-## 🧑‍💻 Chi Sono
-
-<img src="https://tenor.com" align="right" width="180" alt="Persona GIF"/>
-
-Ciao! Sono uno sviluppatore software focalizzato sulla scrittura di codice efficiente, pulito e scalabile. Mi appassiona risolvere problemi logici complessi, ottimizzare le prestazioni delle applicazioni ed esplorare nuove tecnologie per migliorare costantemente le mie competenze informatiche.
-
-* 🌐 **Il mio portfolio:** [Inserisci Link]
-* 💼 **Stato attuale:** Aperto a nuove opportunità e collaborazioni su progetti innovativi.
-* 🚀 **Cosa faccio:** Sviluppo backend/frontend, ottimizzazione di database e automazione di flussi di lavoro.
-
-<br clear="right"/>
-
 ---
 
-## 🛠️ Competenze Tecniche
-
-### Linguaggi e Framework
-<code><img height="32" src="https://githubusercontent.com" alt="JavaScript"/></code>
-<code><img height="32" src="https://githubusercontent.com" alt="TypeScript"/></code>
-<code><img height="32" src="https://githubusercontent.com" alt="Python"/></code>
-<code><img height="32" src="https://githubusercontent.com" alt="Node.js"/></code>
-
-### Strumenti e Infrastruttura
-<code><img height="32" src="https://githubusercontent.com" alt="Git"/></code>
-<code><img height="32" src="https://githubusercontent.com" alt="Docker"/></code>
-<code><img height="32" src="https://githubusercontent.com" alt="PostgreSQL"/></code>
+## 📬 Connect with Me
+* 👔 **LinkedIn:** [Alessandro Signoroni](https://linkedin.com)
+* 📧 **Email:** [alino0203@gmail.com](mailto:alino0203@gmail.com)
 
 ---
-
-## 📊 Statistiche GitHub
 
 <p align="center">
-  <!-- Sostituisci IL_TUO_USERNAME con il tuo vero username GitHub -->
-  <!-- Il tema "radical" usa un contrasto nero e rosso perfettamente in linea con lo stile di Persona 5 -->
-  <img src="https://vercel.app" alt="Le mie statistiche" />
+  <img src="https://github.com/user-attachments/assets/bcced633-08d8-4a56-bb65-9b8bdc168b6a" width="100%" alt="Persona 5" />
 </p>
-
----
-
-## 📬 Contatti
-* **LinkedIn:** [://linkedin.com](https://linkedin.com)
-* **Email:** [la-tua-email@email.com](mailto:la-tua-email@email.com)
 
