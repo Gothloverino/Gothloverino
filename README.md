@@ -9,6 +9,20 @@ Hi, I'm Alessandro! I am a software developer focused on writing efficient, clea
 
 ---
 
+## 🚀 Featured Projects
+
+### 📚 Libft (42 School Piscine)
+* **Description:** A custom C library replicating standard C library functions along with additional utility functions for memory management, string manipulation, and linked list handling. 
+* **Tech Stack:** 🔴 C
+* **Key Learning:** Deepened my understanding of low-level programming, data structures, pointer arithmetic, and algorithmic efficiency.
+
+### 💸 Splitwise Clone (In Progress)
+* **Description:** A full-stack web application designed to track shared expenses, split bills among friends, and balance group debts seamlessly.
+* **Tech Stack:** ⚛️ React | 🟢 Node.js | ⚡ Supabase | 📐 Vercel
+* **Key Learning:** Implementing user authentication, state management, database schema design, and cloud deployments.
+
+---
+
 ## 🛠️ Technical Skills
 
 ### ☕ Programming Languages & Markup
@@ -35,14 +49,6 @@ Hi, I'm Alessandro! I am a software developer focused on writing efficient, clea
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://vercel.app" alt="My Stats" />
-</p>
-
----
-
 ## 📬 Connect with Me
 * 👔 **LinkedIn:** [Alessandro Signoroni](https://linkedin.com)
 * 📧 **Email:** [alino0203@gmail.com](mailto:alino0203@gmail.com)
@@ -50,6 +56,5 @@ Hi, I'm Alessandro! I am a software developer focused on writing efficient, clea
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bcced633-08d8-4a56-bb65-9b8bdc168b6a" width="100%" alt="Persona 5" />
+ <img width="960" height="540" alt="61076" src="https://github.com/user-attachments/assets/a1ac54a1-f2a2-4e3b-b759-0514deb07738" />
 </p>
-
