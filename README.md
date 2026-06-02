@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Banner di Steins;Gate fornito -->
-  <img src="https://alphacoders.com" width="100%" alt="Steins;Gate Banner"/>
+  <img src="[https://alphacoders.com](https://gifs.alphacoders.com/gifs/view/162534)" width="100%" alt="Steins;Gate Banner"/>
 </p>
 
 ## 🧑‍💻 Chi Sono
