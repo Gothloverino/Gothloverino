@@ -1,8 +1,8 @@
-# 💻 Sviluppatore Software
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/8d796acc-5022-412b-ba56-34aa432ee616" /># 💻 Sviluppatore Software
 
 <p align="center">
   <!-- Banner di Steins;Gate fornito -->
-  <img src="[https://alphacoders.com](https://gifs.alphacoders.com/gifs/view/162534)" width="100%" alt="Steins;Gate Banner"/>
+  <img src= https://giffiles.alphacoders.com/162/162534.gif width="100%" alt="Steins;Gate Banner"/>
 </p>
 
 ## 🧑‍💻 Chi Sono
