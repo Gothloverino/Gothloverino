@@ -26,7 +26,9 @@ Hi, I'm Alessandro! I am a software developer focused on writing efficient, clea
 ## 🛠️ Technical Skills
 
 ### ☕ Programming Languages & Markup
-* 🟡 **JavaScript** / 🔵 **TypeScript**
+* ![Static Badge](https://img.shields.io/badge/Javascript-yellow?logo=javascript&color=yellow)
+
+ / 🔵 **TypeScript**
 * 🔴 **C** / 🔵 **C++**
 * 🐍 **Python** / ☕ **Java**
 * 🌐 **HTML5** / 🎨 **CSS3**
