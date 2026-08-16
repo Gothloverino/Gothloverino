@@ -1,66 +1,68 @@
-# 💻 Junior Software Developer
 
-## 🧑‍💻 About Me
-Hi, I'm Alessandro! I am a software developer focused on writing efficient, clean, and scalable code. I enjoy solving complex logical problems, optimizing application performance, and constantly exploring new technologies to broaden my computer science skill set.
+# 👋 Hey, I'm Alessandro
 
-* 🌐 **My Portfolio:** You can find all my projects, experiments, and source code directly right here in my GitHub repositories.
-* 💼 **Current Status:** Actively seeking job opportunities as a **Junior Developer** to join a dynamic team, grow professionally, and put my technical skills into practice.
-* 🚀 **What I Do:** Software development, logical design, database management, and workflow automation.
+Currently expanding my technical skill set in software engineering and web application development.
+
+![Made with Love](https://img.shields.io/badge/Made%20with-Love-ff69b4?style=flat-square)
+![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Tool-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 🧑‍💻 About Me
+
+- 🎓 I'm currently studying at **[FISM Formazione (IFTS Tec-Soft)](https://www.fismformazione.it/)**
+- 💼 Actively seeking job opportunities as a **Junior Developer**
+- 💻 I'm currently working on my **homelab** and full-stack web applications
+- ⭐ I like to talk about **Cooking**, **Tech**, **PC Building**, and **Gaming**
+
+---
+
+### 📬 Connect & Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alessandro_Signoroni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-signoroni/)
+[![Email](https://img.shields.io/badge/Email-alino0203@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alino0203@gmail.com)
 
 ---
 
 ## 🚀 Featured Projects
 
+### 💸 Splitwise Clone (Settl/r)
+* **Description:** Full-stack web app to track shared expenses and balance group debts. Integrates Supabase for PostgreSQL database & authentication, hosted on Cloudflare.
+* **Tech Stack:** `JavaScript` `Supabase` `PostgreSQL` `Cloudflare` `REST APIs`
+
 ### 📚 Libft (42 School Piscine)
-* **Description:** A custom C library replicating standard C library functions along with additional utility functions for memory management, string manipulation, and linked list handling.  
-* **Tech Stack:** ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-* **Key Learning:** Deepened my understanding of low-level programming, data structures, pointer arithmetic, and algorithmic efficiency.
-
-### 💸 Splitwise Clone *(In Progress)*
-* **Description:** A full-stack web application designed to track shared expenses, split bills among friends, and balance group debts seamlessly.
-* **Tech Stack:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-* **Key Learning:** Implementing user authentication, state management, database schema design, and cloud deployments.
+* **Description:** Custom C library replicating standard system functions, memory management, and linked list operations.
+* **Tech Stack:** `C` `Algorithms` `Memory Management`
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### ☕ Programming Languages & Markup
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+> Software, languages, databases, and tools I work with daily.
 
-### 🚀 Frameworks, Backend & Cloud Services
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-for-the-badge&logo=cloudflare&logoColor=white)
+### Languages & Core
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+</p>
 
-* 🔄 **REST APIs** — Interface design and API integration
-
-### 🧰 Development Tools & Infrastructure
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-* 📦 **npm / yarn** — Package and dependency management
-
----
-
-## 📬 Connect with Me
-* 👔 **LinkedIn:** [Alessandro Signoroni](https://www.linkedin.com/in/alessandro-signoroni/)
-* 📧 **Email:** [alino0203@gmail.com](mailto:alino0203@gmail.com)
+### Databases, Web & Cloud
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</p>
 
 ---
 
