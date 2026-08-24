@@ -31,6 +31,7 @@ Currently expanding my technical skill set in software engineering and web appli
 ### 💸 Splitwise Clone (Settl/r)
 * **Description:** Full-stack web app to track shared expenses and balance group debts. Integrates Supabase for PostgreSQL database & authentication, hosted on Cloudflare.
 * **Tech Stack:** `JavaScript` `Supabase` `PostgreSQL` `Cloudflare` `REST APIs`
+
 https://settlr.dedalit.workers.dev
 
 
